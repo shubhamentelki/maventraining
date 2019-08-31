@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="none" verbose="10">
+  <test name="Test">
+    <classes>
+<!--       <class name="seleniumcoaching.MavenTest"/> -->
+      <class name="webDriverDay6.jsexecutor.AWikiWD"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
